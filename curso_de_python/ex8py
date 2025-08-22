@@ -1,0 +1,3 @@
+nome = "Lucas Grabalos"
+print("G" in nome)
+print(" " not in nome)
